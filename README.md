@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
+
 
 ## Module Number: BDK02
 
@@ -31,11 +31,11 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK02-1.pptx
 
-Unit 1 Audio: BDK02-1.mp3
+Unit 1 Audio: BDK02-1.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Module Supplemental Materials
 
-Exercises: BDK02\_exercises.zip
+Exercises: BDK02\_exercises
 
 References & Resources: BDK02\_Ref.pdf
 
